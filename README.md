@@ -13,7 +13,7 @@
 - 🌐 I can Speak/Write English / Turkish
 - 💼 Currently: Unemployed/University
 - <a href="https://patreon.com/nyarlko">Donations</a> are always appreciated.
-- Recreation of ny4rlk0 account alot of the repos are missing yes i know. While i was reverse engineering multiple programs somethings went wrong...
+- Recreation of ny4rlk0 account alot of the repos are missing yes i know...
 <!--
 **neptune1881/neptune1881** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
