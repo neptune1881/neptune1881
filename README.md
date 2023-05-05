@@ -3,7 +3,7 @@
 - 🌱 I know little bit about Data Recovery, Copy Writing, Python, Javascript, Batch, Unity, C#, Blender, 3D Object/Character Design, Oculus Quest, OS's (Windows/Linux/MacOS/Android), Server Setup (OS,Apache,VPN), Web Design, WordPress, HTML, CSS, MySQL, SEO, Raspberry PI, Digital Ocean, Cloud Flare, Adobe Photoshop, Adobe Animate, Sony Vegas, Social Media/Automation/Bot, Network, Firewall, Reverse Engineering a Software...
 - 🖼 I can draw: <a href="https://www.deviantart.com/ny4rlk0/gallery">Deviant Art</a>
 - 📜 I wrote few stories, although they all written in Turkish: <a href="https://www.wattpad.com/user/nyarlk0">Wattpad</a>
-- 🎮 I released some games on Google Play too long ago: <a href="https://play.google.com/store/apps/developer?id=nyarlko">Google Play</a>
+- 🎮 I released some games on Google Play too long ago: <a href="https://play.google.com/store/apps/developer?id=">Google Play</a>
 - ☎ You can reach me: **redacted**:   *<a href="https://www.google.com">* for privacy*</a>*
 - ⚡ I’m currently learning Character Design to make a game (Anime) for Quest 2. (Alpha Stage, Public Beta ETA is: Unknown for now! Licensing issues etc.) 
 - 💬 I did little bit development for Bot with Telegram API (Crypto currency / advertising bot etc. But i wasn't interested in it too much.)
