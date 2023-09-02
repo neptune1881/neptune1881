@@ -11,9 +11,9 @@
 - 🛡 Designed some open source game assets: <a href="https://opengameart.org/users/nyarlko">Open Game Art</a>
 - 🛡 Youtube: <a href="https://www.youtube.com/@HaruRinC3">HaruRinC3</a>
 - 🌐 I can Speak/Write English / Turkish
-- 💼 Currently: Unemployed/University
+- 💼 Currently: Unemployed
 <!--- <a href="https://patreon.com/nyarlko">Donations</a> are always appreciated.-->
-- Recreation of ny4rlk0 account alot of the repos are missing; yes, i know...
+<!--- Recreation of ny4rlk0 account alot of the repos are missing; yes, i know...-->
 <!--
 **neptune1881/neptune1881** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
